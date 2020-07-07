@@ -1,0 +1,289 @@
+id,gender,age,nationality,province,current_state,contacted_with,confirmed_date,released_date,deceased_date,hospital
+1,female,31,indonesia,DKI Jakarta,released,,02-03-2020,13-03-2020,,RSPI Sulianti Saroso
+2,female,64,indonesia,DKI Jakarta,released,1,02-03-2020,16-03-2020,,RSPI Sulianti Saroso
+3,female,33,indonesia,DKI Jakarta,released,1,06-03-2020,13-03-2020,,RS persahabatan
+4,female,34,indonesia,DKI Jakarta,isolated,1,06-03-2020,,,RSPI Sulianti Saroso
+5,male,55,indonesia,DKI Jakarta,isolated,1,06-03-2020,,,RS sanglah
+6,male,36,indonesia,DKI Jakarta,released,,08-03-2020,11-03-2020,,RSPI Sulianti Saroso
+7,female,54,indonesia,DKI Jakarta,released,8,09-03-2020,,,RSPI Sulianti Saroso
+8,male,55,indonesia,DKI Jakarta,released,,09-03-2020,,,RS dr. muwardi
+9,female,55,indonesia,DKI Jakarta,released,,09-03-2020,,,RSPI Sulianti Saroso
+10,male,29,indonesia,DKI Jakarta,isolated,1,09-03-2020,,,RSPI Sulianti Saroso
+11,female,54,indonesia,DKI Jakarta,isolated,1,09-03-2020,,,RSPI Sulianti Saroso
+12,male,31,indonesia,DKI Jakarta,isolated,1,09-03-2020,,,RSPI Sulianti Saroso
+13,female,16,indonesia,DKI Jakarta,released,1,09-03-2020,10-03-2020,,RSPI Sulianti Saroso
+14,male,50,indonesia,DKI Jakarta,isolated,74,09-03-2020,10-03-2020,,RSPI Sulianti Saroso
+15,female,43,indonesia,Jawa Barat,isolated,74,09-03-2020,,,RSPI Sulianti Saroso
+16,female,17,indonesia,Jawa Barat,isolated,74,09-03-2020,,,RSPI Sulianti Saroso
+17,male,56,indonesia,DKI Jakarta,isolated,74,09-03-2020,,,RS persahabatan
+18,male,55,indonesia,Banten,isolated,,09-03-2020,,,RSPI Sulianti Saroso
+19,male,40,indonesia,DKI Jakarta,isolated,74,09-03-2020,,,RS sanglah
+20,female,70,indonesia,DKI Jakarta,isolated,83,10-03-2020,,,RSPI Sulianti Saroso
+21,female,47,indonesia,DKI Jakarta,isolated,1,10-03-2020,,,RSPI Sulianti Saroso
+22,female,36,indonesia,DKI Jakarta,isolated,,10-03-2020,,,RS dr. muwardi
+23,female,73,indonesia,DKI Jakarta,isolated,20,10-03-2020,,,RSPI Sulianti Saroso
+24,male,46,indonesia,DKI Jakarta,isolated,,10-03-2020,,,RSPI Sulianti Saroso
+25,female,53,indonesia,Bali,deceased,,10-03-2020,,11-03-2020,RS sanglah
+26,male,46,indonesia,DKI Jakarta,isolated,1,10-03-2020,,11-03-2020,RSPI Sulianti Saroso
+27,male,33,indonesia,DKI Jakarta,isolated,1,10-03-2020,,,RSPI Sulianti Saroso
+28,male,37,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RS dr. muwardi
+29,male,51,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+30,male,85,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+31,female,48,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+32,male,45,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+33,male,29,indonesia,Jawa Barat,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+34,male,52,indonesia,DKI Jakarta,isolated,,11-03-2020,,,RSPI Sulianti Saroso
+35,female,57,indonesia,Banten,deceased,,13-03-2020,,12-03-2020,RSPI Sulianti Saroso
+36,female,36,indonesia,DKI Jakarta,deceased,,13-03-2020,,12-03-2020,RSPI Sulianti Saroso
+37,male,43,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+38,female,80,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+39,male,54,indonesia,DKI Jakarta,deceased,,13-03-2020,,,RS sanglah
+40,female,46,indonesia,DKI Jakarta,isolated,71,13-03-2020,,,RS sanglah
+41,male,40,indonesia,Jawa Barat,isolated,,13-03-2020,,,RS sanglah
+42,male,66,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS sanglah
+43,male,34,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS sanglah
+44,male,57,indonesia,Jawa Barat,isolated,,13-03-2020,,,RS sanglah
+45,female,29,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS sanglah
+46,female,30,indonesia,DKI Jakarta,isolated,78,13-03-2020,,,RS sanglah
+47,male,61,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+48,male,35,indonesia,Banten,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+49,male,3,indonesia,DI Yogyakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+50,male,59,indonesia,Jawa Tengah,deceased,,13-03-2020,,11-03-2020,RSPI Sulianti Saroso
+51,male,60,indonesia,Jawa Tengah,isolated,,13-03-2020,,11-03-2020,RSPI Sulianti Saroso
+52,female,59,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+53,female,24,indonesia,DKI Jakarta,isolated,22,13-03-2020,,,RS persahabatan
+54,male,2,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+55,female,26,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+56,male,58,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+57,female,27,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RS persahabatan
+58,male,51,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+59,male,63,indonesia,Banten,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+60,female,25,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+61,female,58,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+62,male,51,indonesia,Sulawesi Utara,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+63,male,34,indonesia,Kalimantan Barat,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+64,female,49,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+65,male,48,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+66,male,73,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+67,female,25,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+68,female,38,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+69,male,80,indonesia,DKI Jakarta,isolated,,13-03-2020,,,RSPI Sulianti Saroso
+70,female,48,indonesia,DKI Jakarta,isolated,1,14-03-2020,,,RSPI Sulianti Saroso
+71,male,52,indonesia,DKI Jakarta,deceased,1,14-03-2020,,12-03-2020,RSPI Sulianti Saroso
+72,female,65,indonesia,DKI Jakarta,deceased,,14-03-2020,,12-03-2020,RSPI Sulianti Saroso
+73,female,70,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+74,male,50,indonesia,Jawa Barat,deceased,,14-03-2020,,11-03-2020,RSPI Sulianti Saroso
+75,male,64,indonesia,DKI Jakarta,isolated,,14-03-2020,,11-03-2020,RSPI Sulianti Saroso
+76,male,64,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+77,male,55,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+78,female,69,indonesia,DKI Jakarta,isolated,81,14-03-2020,,,RSPI Sulianti Saroso
+79,male,36,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+80,female,65,indonesia,Jawa Barat,isolated,,14-03-2020,,,RS sanglah
+81,male,86,indonesia,DKI Jakarta,isolated,78,14-03-2020,,,RS sanglah
+82,female,68,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RS sanglah
+83,female,43,indonesia,DKI Jakarta,isolated,1,14-03-2020,,,RSPI Sulianti Saroso
+84,male,78,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+85,female,67,indonesia,Jawa Barat,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+86,male,66,indonesia,DKI Jakarta,deceased,,14-03-2020,,11-03-2020,RSPI Sulianti Saroso
+87,male,20,indonesia,DKI Jakarta,isolated,,14-03-2020,,11-03-2020,RSPI Sulianti Saroso
+88,male,70,indonesia,Banten,isolated,,14-03-2020,,,RS persahabatan
+89,male,31,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RS persahabatan
+90,female,42,indonesia,DKI Jakarta,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+91,male,39,indonesia,Banten,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+92,male,61,indonesia,Banten,isolated,,14-03-2020,,,RSPI Sulianti Saroso
+93,male,51,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+94,male,41,indonesia,DKI Jakarta,deceased,,15-03-2020,,13-03-2020,RSPI Sulianti Saroso
+95,female,70,indonesia,DKI Jakarta,isolated,,15-03-2020,,13-03-2020,RSPI Sulianti Saroso
+96,male,43,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+97,male,39,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+98,male,65,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+99,male,40,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+100,male,27,indonesia,DKI Jakarta,isolated,,15-03-2020,,13-03-2020,RSPI Sulianti Saroso
+101,male,65,indonesia,DKI Jakarta,deceased,,15-03-2020,,13-03-2020,RSPI Sulianti Saroso
+102,female,67,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+103,male,57,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+104,female,56,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+105,male,54,indonesia,DKI Jakarta,deceased,,15-03-2020,,,RSPI Sulianti Saroso
+106,male,66,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+107,male,29,indonesia,DKI Jakarta,isolated,,15-03-2020,,,RSPI Sulianti Saroso
+108,male,72,indonesia,DKI Jakarta,deceased,,15-03-2020,,13-03-2020,RSPI Sulianti Saroso
+109,male,50,indonesia,DKI Jakarta,deceased,,15-03-2020,,14-03-2020,RSPI Sulianti Saroso
+110,male,43,indonesia,Jawa Tengah,deceased,,15-03-2020,,14-03-2020,RSPI Sulianti Saroso
+111,male,50,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+112,male,74,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+113,female,65,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+114,female,74,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+115,male,36,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+116,male,43,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+117,male,56,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+118,female,56,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+119,female,32,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+120,female,26,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+121,female,42,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+122,male,40,indonesia,Jawa Barat,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+123,female,28,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+124,female,37,indonesia,DKI Jakarta,isolated,,16-03-2020,,,RSPI Sulianti Saroso
+125,female,22,indonesia,DKI Jakarta,isolated,3,16-03-2020,,,RSPI Sulianti Saroso
+126,female,22,indonesia,DKI Jakarta,isolated,4,17-03-2020,,,RSPI Sulianti Saroso
+127,male,40,indonesia,DKI Jakarta,isolated,6,17-03-2020,,,RSPI Sulianti Saroso
+128,male,30,indonesia,DKI Jakarta,isolated,2,17-03-2020,,,RSPI Sulianti Saroso
+129,female,34,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+130,female,44,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+131,male,71,indonesia,Kepulauan Riau,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+132,male,22,indonesia,Jawa Timur,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+133,male,50,indonesia,Jawa Timur,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+134,female,28,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+135,male,44,indonesia,DKI Jakarta,isolated,4,17-03-2020,,,RSPI Sulianti Saroso
+136,female,74,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+137,female,45,indonesia,Jawa Tengah,isolated,66,17-03-2020,,,RSPI Sulianti Saroso
+138,male,55,indonesia,Jawa Timur,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+139,female,55,indonesia,DKI Jakarta,isolated,2,17-03-2020,,,RSPI Sulianti Saroso
+140,male,70,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+141,female,72,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+142,male,59,indonesia,DKI Jakarta,isolated,34,17-03-2020,,,RSPI Sulianti Saroso
+143,male,19,indonesia,Kalimantan Barat,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+144,female,80,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RSPI Sulianti Saroso
+145,male,49,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RS sanglah
+146,male,52,indonesia,DKI Jakarta,isolated,,17-03-2020,,,RS sanglah
+147,female,56,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+148,female,28,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+149,male,34,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+150,male,56,indonesia,Jawa Timur,isolated,,18-03-2020,,,RS sanglah
+151,female,43,indonesia,Jawa Timur,isolated,,18-03-2020,,,RS sanglah
+152,male,49,indonesia,Jawa Timur,isolated,,18-03-2020,,,RS sanglah
+153,male,48,indonesia,Jawa Timur,isolated,,18-03-2020,,,RS sanglah
+154,male,38,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+155,female,44,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+156,male,32,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+157,male,67,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+158,male,44,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+159,female,74,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RS sanglah
+160,female,45,indonesia,Jawa Tengah,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+161,male,55,indonesia,Jawa Timur,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+162,female,55,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+163,male,70,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+164,female,72,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+165,male,59,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+166,male,19,indonesia,Kalimantan Barat,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+167,female,80,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+168,male,49,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+169,male,52,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+170,female,56,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+171,female,28,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+172,male,34,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+173,male,56,indonesia,Jawa Timur,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+174,female,43,indonesia,Jawa Timur,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+175,male,49,indonesia,Jawa Timur,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+176,male,48,indonesia,Jawa Timur,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+177,male,38,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+178,female,44,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+179,male,32,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+180,male,67,indonesia,DKI Jakarta,isolated,,18-03-2020,,,RSPI Sulianti Saroso
+181,male,86,indonesia,DKI Jakarta,isolated,78,19-03-2020,,,RSPI Sulianti Saroso
+182,female,68,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+183,female,43,indonesia,DKI Jakarta,isolated,1,19-03-2020,,,RSPI Sulianti Saroso
+184,male,78,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+185,female,67,indonesia,Jawa Barat,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+186,male,66,indonesia,DKI Jakarta,deceased,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+187,male,20,indonesia,DKI Jakarta,isolated,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+188,female,67,indonesia,Banten,isolated,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+189,male,31,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+190,female,42,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+191,male,39,indonesia,Banten,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+192,male,61,indonesia,Banten,isolated,,19-03-2020,,,RS sanglah
+193,male,51,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+194,male,41,indonesia,DKI Jakarta,deceased,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+195,female,70,indonesia,DKI Jakarta,isolated,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+196,male,43,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+197,male,39,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+198,male,65,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+199,male,40,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+200,male,27,indonesia,DKI Jakarta,isolated,,19-03-2020,,,RSPI Sulianti Saroso
+201,male,65,indonesia,DKI Jakarta,deceased,,19-03-2020,,19-03-2020,RS sanglah
+202,female,67,indonesia,DKI Jakarta,isolated,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+203,male,57,indonesia,DKI Jakarta,isolated,,19-03-2020,,19-03-2020,RSPI Sulianti Saroso
+204,female,56,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+205,male,54,indonesia,DKI Jakarta,deceased,,20-03-2020,,,RSPI Sulianti Saroso
+206,male,66,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+207,male,29,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+208,male,72,indonesia,DKI Jakarta,deceased,,20-03-2020,,20-03-2020,RSPI Sulianti Saroso
+209,male,50,indonesia,DKI Jakarta,deceased,,20-03-2020,,19-03-2020,RSPI Sulianti Saroso
+210,male,43,indonesia,Jawa Tengah,deceased,,20-03-2020,,19-03-2020,RSPI Sulianti Saroso
+211,male,50,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+212,male,74,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+213,female,65,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+214,female,74,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+215,male,36,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RS sanglah
+216,male,43,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+217,male,56,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+218,female,56,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+219,female,32,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+220,female,26,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+221,female,42,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RS persahabatan
+222,male,40,indonesia,Jawa Barat,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+223,female,28,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+224,female,37,indonesia,DKI Jakarta,isolated,,20-03-2020,,,RSPI Sulianti Saroso
+225,male,30,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+226,female,34,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+227,female,44,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RS sanglah
+228,male,71,indonesia,Kepulauan Riau,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+229,male,22,indonesia,Jawa Timur,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+230,male,50,indonesia,Jawa Timur,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+231,female,28,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+232,male,44,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+233,female,74,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+234,female,45,indonesia,Jawa Tengah,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+235,male,55,indonesia,Jawa Timur,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+236,female,55,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+237,male,70,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+238,female,72,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+239,male,59,indonesia,DKI Jakarta,isolated,,21-03-2020,,,RSPI Sulianti Saroso
+240,male,19,indonesia,Kalimantan Barat,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+241,female,80,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+242,male,49,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+243,male,52,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+244,female,56,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+245,female,28,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+246,male,34,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RS persahabatan
+247,male,56,indonesia,Jawa Timur,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+248,female,43,indonesia,Jawa Timur,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+249,male,49,indonesia,Jawa Timur,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+250,male,48,indonesia,Jawa Timur,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+251,male,38,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+252,female,44,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+253,male,32,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+254,male,67,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+255,male,44,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RS persahabatan
+256,female,74,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+257,female,45,indonesia,Jawa Tengah,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+258,male,55,indonesia,Jawa Timur,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+259,female,55,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+260,male,70,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+261,female,72,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+262,male,59,indonesia,DKI Jakarta,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+263,male,19,indonesia,Kalimantan Barat,isolated,,22-03-2020,,,RSPI Sulianti Saroso
+264,female,80,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+265,male,49,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+266,male,52,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+267,female,56,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+268,female,28,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+269,male,34,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RS persahabatan
+270,male,56,indonesia,Jawa Timur,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+271,female,43,indonesia,Jawa Timur,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+272,male,49,indonesia,Jawa Timur,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+273,male,48,indonesia,Jawa Timur,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+274,male,38,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+275,female,44,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+276,male,32,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+277,male,67,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+278,male,86,indonesia,DKI Jakarta,isolated,8,23-03-2020,,,RSPI Sulianti Saroso
+279,female,68,indonesia,DKI Jakarta,isolated,,23-03-2020,,,RSPI Sulianti Saroso
+280,female,43,indonesia,DKI Jakarta,isolated,1,23-03-2020,,,RSPI Sulianti Saroso
+281,male,55,indonesia,DKI Jakarta,released,,23-03-2020,23-03-2020,,RSPI Sulianti Saroso
+282,female,55,indonesia,DKI Jakarta,released,,23-03-2020,23-03-2020,,RSPI Sulianti Saroso
+283,male,29,indonesia,DKI Jakarta,isolated,1,23-03-2020,,,RSPI Sulianti Saroso
+284,female,54,indonesia,DKI Jakarta,isolated,4,23-03-2020,,,RSPI Sulianti Saroso
+285,male,31,indonesia,DKI Jakarta,isolated,1,23-03-2020,,,RSPI Sulianti Saroso
+286,female,16,indonesia,DKI Jakarta,released,2,23-03-2020,23-03-2020,,RSPI Sulianti Saroso
+287,male,50,indonesia,DKI Jakarta,isolated,5,23-03-2020,23-03-2020,,RSPI Sulianti Saroso
+288,female,43,indonesia,Jawa Barat,isolated,74,23-03-2020,,,RSPI Sulianti Saroso
